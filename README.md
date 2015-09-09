@@ -6,14 +6,14 @@ Il s'agit d'un site web qui propose d'apprendre à coder de manière interactive
 ##Pourquoi cet exercice est intéressant
 Cet exercise est intéréssant car il permet de voir ou revoir les balises principales en Html.
 
-##Comment ça marche la logique
+##Comment ça marche la logique?
 Le HTML n'est pas un langage de programmation. Il s'agit d'un langage permettant de décrire la mise en page et la forme d'un contenu rédigé en texte simple.
 
 Une page HTML est ainsi un simple fichier texte contenant des balises (parfois appelées marqueurs ou repères ou tags en anglais) permettant de mettre en forme le texte, les images, etc.
 ##Que faire de son Badge Codecademy? 
 N'oubliez pas de rajouter le lien de votre badge codecademy dans le fichier prévu a cet effet sur Github.
 En plus de votre certificat Openclassroom, le badge CodeCademy vous permetras de montrer vos connaisances en code et votre envie d'apprendre.
-##Faire votre About-You
+##Faire votre About-You?
 Sur la pages de votre cours CodeCademy, vous tomberez nez à nez sur  le texte ci-dessous. Pas de panique.
 
 On voit d'abord l'utilisation des `<tags>` pour dire au navigateur comment formater notre texte.
