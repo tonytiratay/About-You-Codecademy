@@ -15,10 +15,11 @@ N'oubliez pas de rajouter le lien de votre badge codecademy dans le fichier pré
 En plus de votre certificat Openclassroom, le badge CodeCademy vous permetras de montrer vos connaisances en code et votre envie d'apprendre.
 ##Faire votre About-You
 Sur la pages de votre cours CodeCademy, vous tomberez nez à nez sur  le texte ci-dessous. Pas de panique.
+
+On voit d'abord l'utilisation des `<tags>` pour dire au navigateur comment formater notre texte.
 ![codecademy.com](https://lh3.googleusercontent.com/qaTY5jMrTE0YTubbKx9bP581cH4U9dtYY4IgY6heL4Zmw4qEN7GiOV3LcuqARY6V67q7NTNeQ_Fq1MfJFRrdeu98bvUZcGHA_wcU_vzYJmGg6VoBXNzy96Kwc77ckwrhtAToVVoAfTEwcQkNC-Lt5DUmR2R0lrK5ieXMj9HE7kLBKalXwmgnxaMlb7UPlrWsSXK5Q8z2g-YAJpHYSS0LCprPeTOZ0EaxuMOKwkH3jf4oWka0GBxQ2Ka_t_PtS4VJ3nF5gypYQPOn-dPfs1fQqN3gpQu1Ngn8DHD9FO9LNOMbqDv0S6RDGn2PQijDmH4EARh3SGwj9LY3XGNnLauwmdNyOuIxwbeLjMq9JMQuDekssaxnFhi6Aps3A-x5aGESrNNysjfLWZy1zjP-PtcDAKM-q31a7PDL1NhzI8PxzX5epni5wYbrh58bIkTBRALtEs_Vx_uvrxSPB0XVd-v-T6TmnsgSv2ME0mmEsYMHXEy7z5sc4zbR_K6tNtCrcb1cW9ns6v8zBLqlMFZBnmSQP6Q=w314-h400-no)
 
-On voit d'abord l'utilisation des <tags> pour dire au navigateur comment formater notre texte.
-Après l'ouverture de la  balise `<h1>` devient un titre de niveau 1. Nous terminons la Balise d'en-tête  avec le `< / h1 >` qui ferme la balise. Le caractère slash est ce qui permet la fermeture de la balise.
+Après l'ouverture de la  balise `<h1>`, qui devient un titre de niveau 1. Nous terminons la Balise d'en-tête  avec le `< / h1 >` qui ferme la balise. Le caractère slash permet la fermeture de la balise.
 
 ![codecademy.com](https://lh3.googleusercontent.com/M0HyWMPPsPNEYR4trw_SClQMHepe7aZYB_kdkYIYP4Fj2g3UVRZFdD6gudB3Qw0W9F75MSoahL_WxMtsUPtevz_k-S1-lHSV-Kdj_pjKd_4_tD8nJnH4WS8qLEdjsnuhfj8AxrF22vju7uPQCZYH9F9FKAMk9X3zl-RkL51_dHo1eNTcY806Bk250ku_4sTZnPAhAleXDjIg2DrKrnvTBI7HSo50Pv2R-RnKCyd9NC8kuI-KdHCy2OWyhEnrm5jCLseb_mHjTGwBUHG29tknqGYZHjUIwiiJDxYiJ2DAQpwMgWLskLbMXitrbgjGkmqc73XPJVBqPHeE0vzz553WaA-5IFX_t05MubK7hJKk5rL-YQVu1VMqzhlQ2rZrVOffxImBzDl97S-ooU2ScDCWswoowrUhje9gYR1MupYVSBongeyGpGC9lRYrA2iMyXsrervxHjdy1ufrjaBT6ItXPjH4HBs_4hctQiHLCDbLZTAnP1C9oY3HGw-2DSzYHwf4IPebig48mng8W4Ry0wIrVfM=w300-h298-no)
 ## Speak in paragraphs
@@ -29,5 +30,5 @@ Ajouter ce qui suit dans l'éditeur de code sur la droite :
 < h1 > Nom < / h1 >
 
 assurez-vous que vous écrivez votre propre nom entre les balises ! Vous allez faire une page  a propos de vous !
-Merveilleux!  Vous pouvez utilisé plusieurs niveaux de l’en-tête head `<h1>`
-en HTML, on est verni, on a le droit d'utiliser six niveaux de titres différents. . On a donc six balises de titres différentes : de `<h1>` à `<h6>`.
+Merveilleux !  Vous pouvez utilisé plusieurs niveaux de l’en-tête head `<h1>`
+en HTML, on est verni, on a le droit d'utiliser six niveaux de titres différents. On a donc six balises de titres différentes : de `<h1>` à `<h6>`.
